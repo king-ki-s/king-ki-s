@@ -5,7 +5,7 @@ I'm a B.Tech CSE Student and a "Jack of All Trades."
 - 🔭 **Tech:** Currently learning Python & Git.
 - 📸 **Photography:** I shoot portraits and streets (Check my repositories for samples soon).
 - 🎬 **Editing:** Visual FX & Motion Graphics enthusiast.
-- 🏍️ **Ride:** Yamaha FZ-S (105kmh club).
+- 🏍️ **Ride:** Bike enthusiast.
 
 ---
 ### 🛠 Tech Stack
