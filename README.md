@@ -2,8 +2,8 @@
 
 I'm a B.Tech CSE Student and a "Jack of All Trades."
 
-- 🔭 **Tech:** Currently learning Python & Git.
-- 📸 **Photography:** I shoot portraits and streets (Check my repositories for samples soon).
+- 🔭 **Tech:** Currently learning Python,Java & Git.
+- 📸 **Photography:** I shoot nature and streets (Check my repositories for samples soon).
 - 🎬 **Editing:** Visual FX & Motion Graphics enthusiast.
 - 🏍️ **Ride:** Bike enthusiast.
 
